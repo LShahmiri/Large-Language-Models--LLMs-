@@ -1,5 +1,3 @@
-
-
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 model_name = "microsoft/phi-3-mini-4k-instruct"  # ✅ correct name with dash
